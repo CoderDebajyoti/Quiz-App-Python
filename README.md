@@ -1,3 +1,3 @@
 # Quiz App
 
-### Develop a multiple-choice quiz with scoring. You could fetch questions from an API or create your own set, then display results at the end.
+### The Quiz App is an interactive console-based game that presents multiple-choice questions to test general knowledge. Users select answers by typing A, B, C, or D. The app provides immediate feedback, updating the score for correct responses. At the end, the final score is displayed with a performance message, offering a fun and educational experience.
