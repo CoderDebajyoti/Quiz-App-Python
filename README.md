@@ -92,6 +92,3 @@ For any queries or suggestions:
 - **GitHub**: [CoderDebajyoti](https://github.com/CoderDebajyoti)  
 - **Email**: [Your Email Address]  
 
----
-
-Feel free to copy this into your `README.md` file and tweak it to better match your project! Let me know if you need help with any part of this.
