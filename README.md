@@ -1,4 +1,3 @@
-
 # Quiz App in Python
 
 A simple and interactive **Quiz Application** built using Python. This app allows users to test their knowledge on various topics and provides instant feedback on their answers. 
