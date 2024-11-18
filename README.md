@@ -1,6 +1,3 @@
-Here's a template for the **README.md** file for your **Quiz App in Python** repository. You can customize it as needed. 
-
----
 
 # Quiz App in Python
 
